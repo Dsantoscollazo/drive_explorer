@@ -1,20 +1,20 @@
-# Icono de acceso a Google Drive File Stream en el Explorador de Windows 10
-Coloca un acceso a Google Drive File Stream en el explorador de archivos de Windows ( Como lo hace oneDrive / Dropbox / Creative Cloud Files )
+# Google Drive File Stream access icon in Windows 10 Explorer
+Place a Google Drive File Stream access icon in the Windows file browser (same as oneDrive / Dropbox does)
 
 ![Imagen de Carpeta Google Drive File Stream instalada en el explorador de windows 10](https://raw.githubusercontent.com/Dsantoscollazo/drive-explorer/master/drive-explorer.jpg
 )
 
 
-# Añadir Carpeta Google Drive al explorador:
+# Add Google Drive folder to browser:
 
-1. Instala Google Drive File Stream normalmente
-2. Descarga los archivos de este repositorio y descomprímelos
-3. Copia la carpeta "Google Drive" en la raiz del Disco C:\\
-4. Ejecuta "drive-explorer 64-bit.reg" o "drive-explorer 32-bit.reg" (según tu sistema operativo windows 10)
-5. Acepta las peticiones de instalación
+1. Install Google Drive File Stream
+2. Download the files from this repository and unzip them
+3. Copy the "Google Drive" folder to the root of Disk C: \\
+4. Run "drive-explorer 64-bit.reg" or "drive-explorer 32-bit.reg" (depending on your windows 10 operating system)
+5. Accept installation requests
 
 
-# Borrar Carpeta :
+# Delete Google Drive folder to browser :
 
-1. Ejecuta "suprimir-drive-explorer.reg"
-2. Acepta las peticiones de desinstalación
+1. Run "suprimir-drive-explorer.reg"
+2. Accept uninstall requests
