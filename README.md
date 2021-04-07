@@ -1,4 +1,4 @@
-# Google Drive File Stream icon in Windows 10 Explorer
+# Google Drive icon in Windows 10 Explorer
 Place a Google Drive File Stream access icon in the Windows file browser (same as oneDrive / Dropbox does)
 
 ![Imagen de Carpeta Google Drive File Stream instalada en el explorador de windows 10](https://raw.githubusercontent.com/Dsantoscollazo/drive-explorer/master/drive-explorer.jpg
