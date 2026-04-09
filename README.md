@@ -1,4 +1,4 @@
-# Google Drive in Windows 10 Explorer
+# Google Drive in Windows 11 Explorer
 Adds a Google Drive shortcut to the Windows File Explorer sidebar, just like OneDrive and Dropbox.
 
 ![Imagen de Carpeta Google Drive File Stream instalada en el explorador de windows 10](https://raw.githubusercontent.com/Dsantoscollazo/drive-explorer/master/drive-explorer.jpg
