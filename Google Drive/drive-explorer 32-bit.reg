@@ -58,4 +58,4 @@ Windows Registry Editor Version 5.00
 @="Google Drive"
 
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
-"{81539FE6-33C7-4CE7-90C7-1C7B8F2F2D41}"=dword:00000000
+"{81539FE6-33C7-4CE7-90C7-1C7B8F2F2D41}"=dword:00000001
